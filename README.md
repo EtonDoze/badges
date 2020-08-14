@@ -24,4 +24,4 @@ Showcasing the codebase quality, build, health, stats using badges
 | Duplications | [![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=simgrid_simgrid&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=simgrid_simgrid) |[![ncloc](https://sonarcloud.io/api/project_badges/measure?project=simgrid_simgrid&metric=ncloc)](https://sonarcloud.io/dashboard?id=simgrid_simgrid)| |
 
 ## Version
-https://img.shields.io/maven-central/v/org.apache.jmeter/ApacheJMeter_core
+![Maven Central](https://img.shields.io/maven-central/v/org.apache.jmeter/ApacheJMeter_core)
